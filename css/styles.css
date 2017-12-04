@@ -1,0 +1,70 @@
+.container {
+	height: 500px;
+}
+
+header {
+	height: 50%;
+	background-color: #4083bd;
+}
+
+.logoAndLogin {
+	display: inline-block;
+	position: relative;
+	left: 45%;
+	top: 30%;
+}
+
+.logo {
+	position: relative;
+	top: 50%;
+	display: inline-block;
+	height: 60px;
+    width: 250px;
+    background-image: url(../images/brand.png);
+    background-size: cover;
+}
+
+.logInButton {
+	height: 47px;
+	width: 150px;
+	background-color: #4083bd;
+	display: inline-block;
+	margin-left: 25px;
+	border-style: outset;
+    border-width: 2px;
+    border-color: #4a88c7;
+    position: relative;
+    bottom: 30%;
+}
+
+.logInButtonImage {
+	background-image: url("../images/home.png");
+	height: 40%;
+    width: 20%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    left: 10%;
+    top: 30%;
+}
+
+.logInText {
+	color: white;
+	font-size: 16px;
+	position: relative;
+	left: 40%;
+	bottom: 10%;
+	width: 45px;
+}
+
+.phonesPic {
+	display: inline-block;
+	position: relative;
+	bottom: 210px;
+}
+
+footer {
+	height: 10%;
+	position: absolute;
+	bottom: 10px;
+}
