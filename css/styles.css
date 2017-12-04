@@ -16,7 +16,7 @@ header {
 
 .logo {
 	position: relative;
-	top: 50%;
+	top: 25px;
 	display: inline-block;
 	height: 60px;
     width: 250px;
@@ -60,7 +60,8 @@ header {
 .phonesPic {
 	display: inline-block;
 	position: relative;
-	bottom: 210px;
+	bottom: 166px;
+    left: 167px;
 }
 
 footer {
