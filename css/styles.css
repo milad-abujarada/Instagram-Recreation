@@ -1,5 +1,5 @@
 .container {
-	height: 500px;
+	height: 700px;
 }
 
 header {
@@ -60,8 +60,20 @@ header {
 .phonesPic {
 	display: inline-block;
 	position: relative;
-	bottom: 166px;
+	bottom: 240px;
     left: 167px;
+}
+
+.form {
+	background-image: url("../images/frame.png");
+    display: inline-block;
+    width: 30%;
+    position: relative;
+    bottom: 334px;
+    left: 19%;
+    padding: 3%;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 footer {
