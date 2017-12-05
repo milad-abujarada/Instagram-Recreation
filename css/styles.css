@@ -76,6 +76,14 @@ header {
     background-size: contain;
 }
 
+.frameHeader {
+	color: #4083bd;
+}
+
+.boldFont {
+	font-weight: bold;
+}
+
 footer {
 	height: 10%;
 	position: absolute;
