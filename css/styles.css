@@ -85,7 +85,16 @@ header {
 }
 
 footer {
-	height: 10%;
-	position: absolute;
-	bottom: 10px;
+    width: 90%;
+    height: 10%;
+    position: relative;
+    bottom: 32%;
+    left: 25%;
+}
+
+.footerLinks {
+	font-size: 12px;
+	display: inline-block;
+	padding: 20px;
+	text-transform: uppercase;
 }
