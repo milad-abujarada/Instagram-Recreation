@@ -1,3 +1,4 @@
+/*the height of the container in the body tag*/
 .container {
 	height: 800px;
 }
@@ -7,6 +8,7 @@ header {
 	background-color: #4083bd;
 }
 
+/*container for the log in button and the instagram logo*/
 .logoAndLogin {
 	display: inline-block;
 	position: relative;
@@ -14,6 +16,7 @@ header {
 	top: 40%;
 }
 
+/*instagram logo styling*/
 .logo {
 	position: relative;
 	top: 25px;
@@ -24,6 +27,7 @@ header {
     background-size: cover;
 }
 
+/*log in button styling*/
 .logInButton {
 	height: 47px;
 	width: 120px;
@@ -38,6 +42,7 @@ header {
     left: 10%
 }
 
+/*the home image styling on the log in button*/
 .logInButtonImage {
 	background-image: url("../images/home.png");
 	height: 40%;
@@ -49,6 +54,7 @@ header {
     top: 30%;
 }
 
+/*the log in button text styling*/
 .logInText {
 	color: white;
 	font-size: 16px;
@@ -59,6 +65,7 @@ header {
 	font-family: Helvetica;
 }
 
+/*the phones on the left hand side styling*/
 .phonesPic {
 	display: inline-block;
 	position: relative;
@@ -66,6 +73,7 @@ header {
     left: 167px;
 }
 
+/*the frame on the right hand side styling*/
 .frame {
 	background-image: url("../images/frame.png");
     display: inline-block;
@@ -78,19 +86,51 @@ header {
     background-size: contain;
 }
 
+/*h1 in the frame styling*/
 .frameHeader {
 	color: #185890;
 	font-family: Helvetica;
 	font-size: 24px;
 }
 
+/*the description on the frame styling */
 .frameParagraph {
 	font-family: Helvetica;
 	font-size: 14px;
 }
 
+/*the bold words in the description styling*/
 .boldFont {
 	font-weight: bold;
+}
+
+/*the container for the app store images styling*/
+.appStoreImages{
+	display: inline-block;
+	position: relative;
+	bottom: 255px;
+	right: 14%;
+	width: 30%;
+}
+
+/*containers' styling for app stores images*/
+.appImages {
+	padding: 10px 12px;
+	display: inline-block;
+	height: 25px;
+	width: 35%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+/*anodroid store image*/
+.android {
+	background-image: url("../images/badge-android.png");
+}
+
+/*apple store image*/
+.iphone {
+	background-image: url(../images/badge-iphone.png);
 }
 
 footer {
