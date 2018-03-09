@@ -1,6 +1,9 @@
 <!--
 Market: SF
 -->
+# My solution to the following challenge
+# Link to the final product
+https://milad-abujarada.github.io/week-1-assessment/
 
 # Website Recreation Lab
 
